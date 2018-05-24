@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "No-Face",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/f/f1/Pngghost.png/revision/latest?cb=20160424134002"
+    },
+    {
+      "id": 2,
+      "name": "Totoro",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/4/45/Totoro.png/revision/latest?cb=20160227174205&path-prefix=protagonist"
+    },
+    {
+      "id": 3,
+      "name": "Kiki",
+      "image": "http://static.tumblr.com/66725343978b7d222f08335b032850fc/pzecmws/nMVnf46o3/tumblr_static_86e49zmg05oosc08g4wwcwsgo.png"
+    },
+    {
+      "id": 4,
+      "name": "Marco Pagot",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/f/fe/Porco.jpg/revision/latest?cb=20161129072722"
+    },
+    {
+      "id": 5,
+      "name": "Baron Humbert",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/7/73/Baron.jpg/revision/latest?cb=20150124102412"
+    },
+    {
+      "id": 6,
+      "name": "Calcifer",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/2/2a/Calcifer.png/revision/latest?cb=20110705204516"
+    },
+    {
+      "id": 7,
+      "name": "Mini Totoro",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/d/db/Blå_Totoro.jpg/revision/latest?cb=20130401154121"
+    },
+    {
+      "id": 8,
+      "name": "Ashitaka",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/4/49/Ashitaka.jpg/revision/latest?cb=20171215144249"
+    },
+    {
+      "id": 9,
+      "name": "Forest Spirit",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/b/b7/Forest_Spirit.jpg/revision/latest?cb=20180517141340"
+    },
+    {
+      "id": 10,
+      "name": "Catbus",
+      "image": "https://vignette.wikia.nocookie.net/clubpenguinpookie/images/3/30/Catbus.jpg/revision/latest?cb=20140630010552"
+    }
+  ]
